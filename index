@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Hustlamerica — In Hustle We Trust</title>
+
+  <meta name="description" content="Hustlamerica is a cultural movement rooted in hustle, ownership, Southern hip-hop, film, fashion, and independent systems. In Hustle We Trust." />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="nav">
+    <span class="nav-title">HUSTLAMERICA</span>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <img src="assets/logo.png" alt="Hustlamerica Logo" class="logo" />
+    <h1>HUSTLAMERICA</h1>
+    <p class="tagline">In Hustle We Trust</p>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="section">
+    <h2>THE MOVEMENT</h2>
+    <p>
+      Hustlamerica is a cultural and creative movement built on hustle, ownership,
+      and Southern legacy. We operate at the intersection of music, film, fashion,
+      writing, and technology — documenting the past while engineering the future.
+    </p>
+  </section>
+
+  <!-- DIVISIONS -->
+  <section class="section">
+    <h2>DIVISIONS</h2>
+    <ul class="list">
+      <li><strong>Music</strong> — Southern hip-hop, DJ mixes, compilations, and archives</li>
+      <li><strong>Film</strong> — Experimental music films, documentaries, visual essays</li>
+      <li><strong>Fashion</strong> — Limited garments, collaborative drops, uniforms</li>
+      <li><strong>Literature</strong> — Essays, poetry, cultural documentation</li>
+      <li><strong>Games & Tech</strong> — Interactive systems, world-building, ownership tools</li>
+    </ul>
+  </section>
+
+  <!-- FEATURE -->
+  <section class="section feature">
+    <h2>PHILOSOPHY</h2>
+    <p>
+      This is not a trend brand. This is infrastructure.
+      Art without limitation. Ownership without permission.
+      Legacy over clout.
+    </p>
+  </section>
+
+  <!-- CTA -->
+  <section class="section cta">
+    <p class="cta-title">Creators. Hustlers. Visionaries.</p>
+    <p>
+      If you believe in building something bigger than yourself —
+      you’re already part of Hustlamerica.
+    </p>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© Hustlamerica</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
