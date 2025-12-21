@@ -1,0 +1,4 @@
+// Hustlamerica — minimal intentional JS
+// Reserved for future interaction, film embeds, and systems
+
+console.log("Hustlamerica loaded.");
